@@ -1,0 +1,19 @@
+.repairStatus {
+    padding: 20px;
+}
+
+.repair-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.repair-item h2 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.repair-item p {
+    margin: 5px 0;
+}

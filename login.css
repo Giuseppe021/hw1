@@ -1,0 +1,44 @@
+div h1{
+    text-align: left;
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
+.content{
+    flex:1;
+}
+.login-box{
+   margin-bottom: 1.563rem;
+   box-shadow: 2px 2px 8px 0 rgba(0, 0, 0, .2);
+   background: #fff;
+
+   padding: 1rem;
+    max-width: 640px;
+    margin: auto;
+    margin-bottom: 2.5rem;
+
+    position: relative;
+    display: block;
+}
+
+hr{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, .1);
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+}
+
+.login-form{
+    margin-top: 15px;
+}
+
+.error {
+    color: red;
+    font-size: 0.875em;
+    margin-top: 5px;
+  }
+

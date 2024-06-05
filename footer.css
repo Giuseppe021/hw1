@@ -1,0 +1,41 @@
+
+
+footer{
+ 
+	max-width: 100%;
+	max-height: 100%;
+	box-shadow: 2px 2px 11px 0 rgba(0,0,0,.3);
+}
+
+
+.containerfooter{
+	display: flex;
+	flex-direction: row;
+}
+
+.sizeContainerFooter{
+	
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: row;
+	height: 250px;
+
+}
+
+.colFooter{
+	
+	height: 100%;
+	width: 40%;
+	margin-right: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+
+}
+
+.colFooter-infonegozio{
+	border-left: 2px solid #f1f1f1;
+	margin-left: 5%;
+	height: 60%;
+}
+
