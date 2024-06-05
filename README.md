@@ -1,1 +1,1 @@
-# hw1
+In questo ho implementato le funzionalità richieste. Cliccando nella navbar 'stato riparazioni' si possono vedere appunto lo stato delle eventuali riparazioni dell'utente loggato, i prodotti popolari possono essere aggiunti al carrello e possono essere rimossi. Il caricamento dello stato riparazioni e del carrello avviene secondo le funzionalità richieste.
