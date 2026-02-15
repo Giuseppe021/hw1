@@ -1,4 +1,4 @@
-In questo ho implementato le funzionalità richieste. Cliccando nella navbar 'stato riparazioni' si possono vedere appunto lo stato delle eventuali riparazioni dell'utente loggato, i prodotti popolari possono essere aggiunti al carrello e possono essere rimossi. Il caricamento dello stato riparazioni e del carrello avviene secondo le funzionalità richieste.
+Cliccando nella navbar 'stato riparazioni' si possono vedere appunto lo stato delle eventuali riparazioni dell'utente loggato, i prodotti popolari possono essere aggiunti al carrello e possono essere rimossi. Il caricamento dello stato riparazioni e del carrello avviene secondo le funzionalità richieste.
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
